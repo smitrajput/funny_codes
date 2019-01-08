@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/smitrajput/funny_codes/issues"
   },
-  "homepage": "https://github.com/smitrajput/funny_codes#readme"
+  "homepage": "https://github.com/smitrajput/funny_codes#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
